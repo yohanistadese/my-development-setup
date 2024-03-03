@@ -51,6 +51,8 @@ The `Material Icons` Plugin is a complementary plugin of the Material Theme whos
 
 `Git` A distributed version control system widely used for tracking changes in source code during development. Platforms like GitHub, GitLab, and Bitbucket provide online repositories for hosting Git projects. [Link &rarr;](https://git-scm.com/downloads)
 
+
+
 # Online tool used in the developments
 
 ### Color picker used in the development
@@ -60,6 +62,18 @@ The `Material Icons` Plugin is a complementary plugin of the Material Theme whos
 ### Image selector used in the development
 
 `Unsplash` Unsplash is a photo discovery platform for free to use, high-definition photos. [Link &rarr;](https://unsplash.com/)
+
+`Shutterstock` Shutterstock is other a photo discovery platform for free to use, high-definition photos. [Link &rarr;](https://www.shutterstock.com/)
+
+### For logo design used in the development
+
+`Shutterstock` Again use Shutterstock is other a Logo discovery platform for free to use, high-definition Logo. [Link &rarr;](https://www.shutterstock.com/)
+
+ 
+
+### For select design used in the development
+
+`Themeforest` Professional WordPress Themes & Website Templates for any project. [Link &rarr;](https://themeforest.net/)
 
 
 
